@@ -65,3 +65,5 @@ Cards and their abilities for the Democracy the Citizen trading card game:
 
 "Shills, Conmen & Ponzi Schemes" - This card represents the various fraudulent and deceptive tactics used to manipulate public opinion and exploit others for personal gain. Its abilities may include the ability to manipulate media coverage, deceive the public, and enrich oneself at the expense of others. As a DemocracyTheCitizen card, it would likely have a negative connotation, representing the corrupting influence of greed and power.
 
+"Police state" - This card represents the use of state-sponsored repression and violence to maintain control and suppress dissent. Its abilities may include the power to intimidate, arrest, and use force against those who challenge the status quo. As a DemocracyTheCitizen card, it would likely have a negative connotation, representing the dangers of authoritarianism and the importance of protecting civil liberties.
+

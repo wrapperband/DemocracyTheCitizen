@@ -2,22 +2,58 @@
 
 In Democracy the Citizen, players aim to collect and use powerful cards representing different elements of the political system to achieve their goals. 
 
-The County Council card allows the player to make decisions about local issues and allocate resources in their specific geographic area. 
+Political Campaign (Campaign Manager Card)
+Politician (Mayor, Governor, President Card)
+Lobbying Firm (Lobbyist Card)
+Political Party (Party Leader Card)
+Political Action Committee (PAC Card)
+Political Pollster (Pollster Card)
+Political Consultant (Consultant Card)
+Political Strategist (Strategist Card)
+Political Surrogate (Surrogate Card)
+Political Donor (Donor Card)
+Political Activist (Activist Card)
+Political Scientist (Scientist Card)
+Political Analyst (Analyst Card)
+Political Journalist (Journalist Card)
+Political Commentator (Commentator Card)
 
-The Member of Parliament card grants the player the ability to propose and vote on legislation in the national government. 
+    Intelligence Agency (representing the role of intelligence agencies in gathering and analyzing information for national security purposes)
+    
+    Environmental Protection (representing the importance of protecting the natural environment and addressing climate change)
+Trade Unions (representing the advocacy and organizing efforts of labor unions)
+Police (representing the role of law enforcement in maintaining public safety and order)
 
-The King card gives the player ultimate authority and allows them to override other players' decisions. 
+    The Military card represents the armed forces of a country and its ability to defend national interests and maintain security. Its abilities could include the power to project force and deter threats, as well as the ability to respond to crises and conflicts.
 
-The Lords card represents the upper house of the UK parliament and grants the player the ability to delay or block legislation proposed by the lower house. 
+    The Police card represents the law enforcement agencies responsible for maintaining order and protecting citizens. Its abilities could include the power to patrol, investigate, and enforce laws, as well as the ability to use force when necessary.
 
-The Voting Booth card allows the player to cast their vote on any issue that arises in the game. 
+    The Foreign Affairs card represents the diplomatic efforts of a country to engage with other nations and shape global events. Its abilities could include the power to negotiate treaties and alliances, as well as the ability to influence the policies and actions of other countries.
 
-The Town Hall card gives the player access to local resources and the ability to hold meetings with other players to discuss and resolve issues. 
+    The Education card represents the system of schools and universities that provide knowledge and skills to citizens. Its abilities could include the power to shape curriculum and impart critical thinking skills, as well as the ability to prepare students for future careers and civic participation.
 
-The Prime Minister card grants the player the highest level of executive power and the ability to make decisions on behalf of the government.
+    The Health Care card represents the system of hospitals, clinics, and other institutions that provide medical treatment and care to citizens. Its abilities could include the power to diagnose and treat illness, as well as the ability to promote public health and prevent disease.
 
+    The Social Security card represents the system of benefits and protections that help citizens meet their basic needs and cope with life's challenges. Its abilities could include the power to provide financial assistance, medical care, and other forms of support to those in need.
+
+    The Taxes card represents the system of taxation that helps fund government services and programs. Its abilities could include the power to raise revenue, redistribute wealth, and shape economic policy.
+
+    The Infrastructure card represents the systems of roads, bridges, ports, and other facilities that support transportation and communication. Its abilities could include the power to facilitate trade and commerce, as well as the ability to connect people and places.
 
 Cards and their abilities for the Democracy the Citizen trading card game:
+
+"Press" - This card represents the role of the media in informing the public and holding those in power accountable. Its abilities could include the power to expose corruption, uncover the truth, and shape public opinion.
+
+"Political Activists" - This card represents individuals or groups who work to bring about social or political change through grassroots efforts such as protests, lobbying, and civil disobedience. Its abilities could include the power to mobilize and inspire others, as well as the power to influence policy decisions through public pressure.
+
+"Educational Institutions" - This card represents the role of schools, universities, and other educational institutions in shaping the knowledge, values, and skills of future citizens. Its abilities could include the power to influence the curriculum, research, and teaching methods, as well as the power to shape the perspectives and worldviews of students.
+
+"NGOs" - This card represents non-governmental organizations that work on issues such as human rights, environmental protection, and social justice. Its abilities could include the power to advocate for change, provide humanitarian assistance, and expose injustices.
+
+"Political Pressure Groups" - This card represents organizations that seek to influence policy decisions on specific issues, such as gun control, abortion, or immigration. Its abilities could include the power to lobby lawmakers, mobilize supporters, and shape public opinion.
+
+"Political Satire" - This card represents the use of humor, irony, and ridicule to expose and mock the flaws and excesses of politics and politicians. Its abilities could include the power to expose hypocrisy, challenge assumptions, and inspire critical thinking.
+
 
 "Spin Doctors" - This card represents the advisors and strategists who work to shape and control public perception of a political party or individual. Its abilities include the power to manipulate media coverage and deflect negative attention.
 
@@ -34,8 +70,6 @@ Cards and their abilities for the Democracy the Citizen trading card game:
 "Voting Rights" - This card represents the fundamental right to participate in democratic elections. Its abilities include the power to elect representatives and hold them accountable for their actions.
 
 "Media" - This card represents the various outlets and platforms through which information is disseminated to the public. Its abilities include the power to shape public opinion and influence decision-making. As a BowlerHatMan card, it would likely have a focus on responsible reporting and holding those in power accountable.
-
-"Political Party" - This card represents the organized groups that seek to shape public policy and hold political power. Its abilities include the ability to mobilize supporters, fundraise, and influence policy decisions. As a DemocracyTheCitizen, it would likely have a focus on progressive values and the common good.
 
 "Lobbyist" - This card represents the individuals and organizations that seek to influence policy decisions on behalf of a particular interest group. Its abilities include the power to sway decision-makers and shape public opinion. As a DemocracyTheCitizen card, it would likely have a negative connotation, representing the potentially corrupting influence of special interests.
 
@@ -66,4 +100,25 @@ Cards and their abilities for the Democracy the Citizen trading card game:
 "Shills, Conmen & Ponzi Schemes" - This card represents the various fraudulent and deceptive tactics used to manipulate public opinion and exploit others for personal gain. Its abilities may include the ability to manipulate media coverage, deceive the public, and enrich oneself at the expense of others. As a DemocracyTheCitizen card, it would likely have a negative connotation, representing the corrupting influence of greed and power.
 
 "Police state" - This card represents the use of state-sponsored repression and violence to maintain control and suppress dissent. Its abilities may include the power to intimidate, arrest, and use force against those who challenge the status quo. As a DemocracyTheCitizen card, it would likely have a negative connotation, representing the dangers of authoritarianism and the importance of protecting civil liberties.
+
+"Educational Institutions" - This card represents the role of schools, universities, and other educational institutions in shaping the knowledge, values, and skills of future citizens. Its abilities could include the power to influence the curriculum, research, and teaching methods, as well as the power to shape the perspectives and worldviews of students.
+
+"NGOs" - This card represents non-governmental organizations that work on issues such as human rights, environmental protection, and social justice. Its abilities could include the power to advocate for change, provide humanitarian assistance, and expose injustices.
+
+"Political Pressure Groups" - This card represents organizations that seek to influence policy decisions on specific issues, such as gun control, abortion, or immigration. Its abilities could include the power to lobby lawmakers, mobilize supporters, and shape public opinion.
+
+"Political Satire" - This card represents the use of humor, irony, and ridicule to expose and mock the flaws and excesses of politics and politicians. Its abilities could include the power to expose hypocrisy, challenge assumptions, and inspire critical thinking.
+
+"Political Scientists" - This card represents the scholars and experts who study political systems, behaviors, and processes. Its abilities could include the power to conduct research, analyze data, and provide insights and recommendations.
+
+"Corporations" - This card represents the large, profit-driven businesses that operate in the economy. Its abilities could include the power to influence policy decisions through lobbying and campaign donations, as well as the ability to generate wealth and create jobs.
+
+"Civil Society" - This card represents the various non-governmental organizations, charities, and grassroots groups that work to promote social change and advocate for specific causes. Its abilities could include the power to mobilize supporters, raise awareness, and influence policy decisions.
+
+"Public Services" - This card represents the various essential services provided by the government, such as healthcare, education, and transportation. Its abilities could include the power to provide essential resources and support to the community, as well as the ability to shape public policy and priorities.
+
+"Political Scandals" - This card represents the various instances of corruption, misconduct, or unethical behavior that can occur within the political system. Its abilities could include the power to damage the reputation and credibility of politicians or institutions, as well as the ability to expose and hold those responsible accountable.
+
+"Electoral System" - This card represents the various rules and processes that govern the holding of elections and the selection of representatives. Its abilities could include the power to shape the outcome of elections, as well as the ability to influence the distribution of political power.
+
 
